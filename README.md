@@ -21,7 +21,6 @@
 ### jd_jx_factory_automation
 
 
-###   jd_joy_park.js
 
 
 ### node jd_speed_sign.js
